@@ -9,8 +9,11 @@ We'll be working with the MultiWOZ dataset of goal-oriented dialogues (2.2). You
 ## Team Members:
 
 Mrinal Grover
+
 Andrew Stich
+
 Varadraj Poojary
+
 Sijia Han
 
 ## Scores
