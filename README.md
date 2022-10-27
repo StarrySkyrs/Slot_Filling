@@ -5,6 +5,13 @@ We built an end-to-end system for basic (binary) intent recognition and slot fil
 
 We worked with the MultiWOZ dataset of goal-oriented dialogues (2.2). You can look at the full corpus [here](https://github.com/budzianowski/multiwoz/tree/master/data/MultiWOZ_2.2). It has an impressively detailed annotation involving multiple turns and multiple goals, which we have simplified to just the initiating request (first turn) and involving two possible intents and the corresponding slots for those intents.
 
+### Models
+
+Logistic regression for binary classification
+
+BERT for Name and Cuisine Prediction
+
+Rule-Based Classification
 
 ## Team Members:
 
